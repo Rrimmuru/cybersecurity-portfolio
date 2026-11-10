@@ -5,4 +5,4 @@ During the NCL 2026 individual and team game my experience was very beneficial w
 As my day to day job doesnt include red team activities, I dont get to test out my skills as a pen tester for example and so it was nice to be able to understand red team activities so that I can better hone those 
 vulnerabilities into mitigations for the blue side.
 
-My individual score was 2125/3000 during the NCL Fall 2026 Individual Game.
+My individual score was 2125/3000 during the NCL Fall 2026 Individual Game and 2550/3000 for the Team Game.
