@@ -7,5 +7,5 @@ vulnerabilities into mitigations for the blue side.
 
 My individual score was 2125/3000 during the NCL Fall 2026 Individual Game and 2550/3000 for the Team Game.
 <img width="1261" height="466" alt="image" src="https://github.com/user-attachments/assets/ff6c5e63-bbe3-4c91-8069-ab6c2104eea1" />
+<img width="1274" height="455" alt="image" src="https://github.com/user-attachments/assets/3c1e64ef-83fe-4b51-b59a-f6bfe636bde3" />
 
-https://cyberskyline.com/world/6a1729e7d4551af5a8772a54/report/6a1729e7d4551af5a8772a56
